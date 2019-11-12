@@ -1,0 +1,40 @@
+Aug 25, 2018 1:42:31 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 1:50:36 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 1:56:30 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 2:15:13 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 2:22:50 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 3:17:57 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 4:02:44 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 4:12:24 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 4:36:26 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 4:45:42 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 5:04:56 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 5:08:04 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 5:10:40 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 25, 2018 5:14:00 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 26, 2018 6:05:23 PM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 26, 2018 6:06:28 PM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 26, 2018 6:11:38 PM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 26, 2018 6:17:24 PM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 26, 2018 6:40:39 PM view.LoginScreenController handleSignInAction
+INFO: me logged in
+Aug 29, 2018 1:13:42 AM view.LoginScreenController handleSignInAction
+INFO: me logged in
